@@ -1,7 +1,7 @@
 # Intro To Python (Udacity)
 **These are a few notes and programs that I have written while working on the "Intro to Python Course" on Udacity**
 
-**CHAPTER 1: [Control FLow](https://github.com/Darrenrodricks/IntroToPythonUdacity/tree/main/ControlFlow)** 
+**CHAPTER 1: [Control Flow](https://github.com/Darrenrodricks/IntroToPythonUdacity/tree/main/ControlFlow)** 
 *This chapter deals with the very basics, loops, 'if' and 'for' loops and how the basics of python work.*
   
 **CHAPTER 2: [Data Structures](https://github.com/Darrenrodricks/IntroToPythonUdacity/tree/main/DataStructures)**
